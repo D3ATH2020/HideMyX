@@ -1,0 +1,13 @@
+Architecture: iphoneos-arm
+Author: D3@TH <deathsrepo@gmail.com>
+Depends: firmware (>= 5.0)
+Depiction: http://deathsrepo.cu.cc/info/hidemyx.php
+Description: This will hide the IntelliScreenX icon.
+Homepage: http://modmyi.com/info/hidemyx.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: Hide My X
+Package: net.death.hidemyx
+Section: System
+Sponsor: D3@TH’s Creations <http://deathscreations.22web.org>
+Version: 1.0
+Icon: file:///Applications/HideMyX.app/Icon.png

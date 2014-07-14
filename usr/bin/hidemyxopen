@@ -1,0 +1,5 @@
+#!/bin/bash
+
+open net.death.hidemyxuninstaller
+
+exit 0

@@ -1,0 +1,12 @@
+Package: net.death.hidemyxuninstaller
+Name: HideMyX Uninstaller
+Depends: net.death.hidemyx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Uninstalls Hide My X without Cydia!
+Maintainer: D3@TH <deathsrepo@gmail.com>
+Author: D3@TH <deathsrepo@gmail.com>
+Depiction: http://deathsrepo.cu.cc/info/hidemyx.php
+Homepage: D3@TH’s Creations <http://deathscreations.22web.org>
+Section: Utilities
+Icon: file:///Applications/HideMyX.app/Icon.png

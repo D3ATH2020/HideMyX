@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dpkg -r net.death.hidemyx
+
+dpkg -r net.death.hidemyxuninstaller
+
+exit 0

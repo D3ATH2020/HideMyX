@@ -1,0 +1,4 @@
+#!/bin/bash 
+rm -f “/Applications/IntelliScreenX.app/Info.plist”
+
+mv -f "/Applications/HideMyX.app/show/Info.plist" "/Applications/IntelliScreenX.app/"

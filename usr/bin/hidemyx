@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mv -f "/Applications/IntelliScreenX.app/Info.plist" "/Applications/HideMyX.app/show/"
+
+cp -f "/Applications/HideMyX.app/hide/Info.plist" "/Applications/IntelliScreenX.app/"
+
+exit 0
